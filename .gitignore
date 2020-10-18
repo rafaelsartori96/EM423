@@ -1,0 +1,11 @@
+# Ignoramos arquivos executáveis
+*
+!*/
+!*.*
+
+# Ignoramos vídeos de aulas
+*.mkv
+
+# Ignoramos arquivos comprimidos
+*.rar
+*.zip
